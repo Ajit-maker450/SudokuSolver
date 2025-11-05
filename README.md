@@ -1,24 +1,3 @@
-<p align="center">
-  <img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
-  <h2 align="center" style="margin-top: -4px !important;">Sudoku Solver: A Fun and Challenging Way to Exercise Your Brain!</h2>
-  <p align="center">
-    <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-informational">
-    </a>
-    <a href="https://www.python.org/">
-    	<img src="https://img.shields.io/badge/python-v3.8-informational">
-    </a>
-  </p>
-</p>
-<p align="center">
-	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-</p>
-<p align="center">   
-	<a href="https://dev.to/dhhruv/sudoku-solver-a-visualizer-made-using-backtracking-algorithm-5f0d">
-    	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
-</p>
-
 
 - Are you ready to put your logical thinking and reasoning skills to the test? Look no further than Sudoku Solver, the ultimate tool for solving Sudoku puzzles quickly and easily.
 
@@ -62,23 +41,17 @@ To run Sudoku Solver, you'll need to have Python and PyGame installed on your sy
 pip install -r requirements.txt
 ```
 
-## Execution:
-- Clone this repository using
-```
-git clone https://github.com/dhhruv/Sudoku-Solver.git
-```
-**OR**
-- Zip Download the Repository and Extract it's contents.
-- Now run the [SudokuGUI](https://github.com/dhhruv/Sudoku-Solver/blob/master/SudokuGUI.py) file directly in your Terminal using
+
+Terminal using
 ```
 python SudokuGUI.py
 ```
 **OR**
 ```
-python3 SudokuGUI.py
+py -3.11 SudokuGUI.py
 ```
 
 ## Conclusion:
 If you're a fan of Sudoku puzzles, Sudoku Solver is the perfect tool to help you solve them quickly and easily. With its powerful algorithm and easy-to-use GUI, you'll be solving puzzles in no time. Plus, Sudoku is a great way to exercise your brain and improve your cognitive abilities, making it a fun and challenging game for people of all ages. So what are you waiting for? Download Sudoku Solver today and start playing!
 
-<p align='center'><b>Made with ❤ by Dhruv Panchal</b></p>
+<p align='center'><b>Made with ❤ by Ajit Kumar Rai</b></p>
